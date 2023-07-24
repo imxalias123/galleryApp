@@ -1,0 +1,14 @@
+/* Write your code here. */
+.thumbnail-cont {
+  display: flex;
+  padding: 0px;
+}
+
+.bg-container {
+  display: flex;
+
+  justify-content: center;
+}
+.displayedImg {
+  margin-top: 40px;
+}

@@ -1,0 +1,9 @@
+/* Write your code here. */
+.each-thumbNail {
+  margin-right: 10px;
+  list-style-type: none;
+}
+.button {
+  background-color: white;
+  border: 0px;
+}
